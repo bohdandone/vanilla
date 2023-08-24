@@ -1,4 +1,6 @@
 ## Life is Vanilla and so is GitHub.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbohdandone%2Fvanilla.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbohdandone%2Fvanilla?ref=badge_shield)
+
 
 This repository has been created for the sole purpose to learn more about git, github and VCS. As discussed in the workshop that we had/are having.
 Have fun. Practise a lot. Don't fear to do something wrong or break something. Enjoy the change.
@@ -17,3 +19,7 @@ Here are my contributions to this project - ;-)
 @omi10859
 [omkar.site](omkar.site)
 hello this is ayush garg
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbohdandone%2Fvanilla.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbohdandone%2Fvanilla?ref=badge_large)
